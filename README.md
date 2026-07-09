@@ -1,1 +1,2 @@
-# for-nda.k
+Run locally
+prerequisites: Node.js
